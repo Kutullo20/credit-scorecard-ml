@@ -1,0 +1,14 @@
+feature,coefficient,points
+previous_default,0.8453,-146.0
+age,0.2626,-1.7
+loan_to_income,0.3407,-1.4
+loan_amount_zar,-0.1647,0.0
+existing_debt_zar,-0.4174,0.0
+monthly_income_zar,-1.1132,0.0
+loan_term_months,-0.648,3.0
+debt_to_income,-0.2907,5.5
+years_employed,-0.6504,6.6
+num_existing_loans,-0.2695,21.0
+dependants,-0.5849,39.2
+employment_encoded,-1.045,92.8
+expense_ratio,-0.2745,132.3
